@@ -1,5 +1,4 @@
 import mongoose from 'mongoose';
-// time 1:00:41 / 3:34:54
 
 const noteSchema = new mongoose.Schema(
 {
