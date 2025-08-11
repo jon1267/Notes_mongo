@@ -3,8 +3,6 @@ import HomePage from './pages/HomePage';
 import CreatePage from './pages/CreatePage';
 import NoteDetailPage from './pages/NoteDetailPage';
 //import toast from 'react-hot-toast';
-// time 2:32:00
-
 
 const App = () => {
   return (
